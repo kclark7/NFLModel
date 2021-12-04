@@ -1,0 +1,7 @@
+All stats and data collected is being neatly added and cleaned in this google drive folder:
+https://drive.google.com/drive/folders/1U-Ewu9ZJSFcUv0IjciENnceXNzfnZ-Sy?usp=sharing
+
+The goal is to practice python for data analysis/visualization by completing a project that is fun to me, as I watch the NFL every week.
+It is also giving me some excel (many Vlookups have been used) and github practice
+Future plans include saving the data in a DB2 table to practice SQL w/ python 
+and post to use tableau as well.
