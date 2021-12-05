@@ -5,3 +5,12 @@ The goal is to practice python for data analysis/visualization by completing a p
 It is also giving me some excel (many Vlookups have been used) and github practice
 Future plans include saving the data in a DB2 table to practice SQL w/ python 
 and post to use tableau as well.
+
+12/4/2021 Update: 
+After testing different variables for their correlation with outcome, I have decided to use
+3rd Down Conversion (.66 weight for offense), Red Zone Conversion rate (.66 weight for offense),
+Yards per Drive (.66 weight for offense), turnover rate (.33 weight for offense), 
+and points per drive (.66 weight for offense).
+The r values, p values, and correlation coefficiants can be seen in TestVarCorr.ipynb
+Penalties did not seem to be a good predictor, and pressure was iffy at p=.42 but I will try 
+to find a new pressure stat that works better.
